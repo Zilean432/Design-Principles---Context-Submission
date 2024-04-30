@@ -1,0 +1,178 @@
+# Created by Polycam
+# object name: poly
+newmtl poly_0
+Ka 0.000 0.000 0.000
+Kd 0.560784 0.52549 0.439216
+Ks 0 0 0
+d 1
+illum 1
+Ns 1.000000
+newmtl poly_1
+Ka 0.000 0.000 0.000
+Kd 0.560784 0.52549 0.439216
+Ks 0 0 0
+d 1
+illum 1
+Ns 1.000000
+newmtl poly_2
+Ka 0.000 0.000 0.000
+Kd 0.560784 0.52549 0.439216
+Ks 0 0 0
+d 1
+illum 1
+Ns 1.000000
+newmtl poly_3
+Ka 0.000 0.000 0.000
+Kd 0.52549 0.54902 0.611765
+Ks 0 0 0
+d 1
+illum 1
+Ns 1.000000
+newmtl poly_4
+Ka 0.000 0.000 0.000
+Kd 0.560784 0.52549 0.439216
+Ks 0 0 0
+d 1
+illum 1
+Ns 1.000000
+newmtl poly_5
+Ka 0.000 0.000 0.000
+Kd 0.9 0.9 0.9
+Ks 0.5 0.5 0.5
+d 0.4
+illum 1
+Ns 1.000000
+newmtl poly_6
+Ka 0.000 0.000 0.000
+Kd 0.6 0.6 0.6
+Ks 0 0 0
+d 0.4
+illum 1
+Ns 1.000000
+newmtl poly_7
+Ka 0.000 0.000 0.000
+Kd 0.772549 0.764706 0.74902
+Ks 0 0 0
+d 1
+illum 1
+Ns 1.000000
+newmtl poly_8
+Ka 0.000 0.000 0.000
+Kd 1 0.996078 0.976471
+Ks 0 0 0
+d 1
+illum 1
+Ns 1.000000
+newmtl poly_9
+Ka 0.000 0.000 0.000
+Kd 0.95 0.9 0.85
+Ks 0 0 0
+d 1
+illum 1
+Ns 1.000000
+newmtl poly_10
+Ka 0.000 0.000 0.000
+Kd 1 0.996078 0.976471
+Ks 0 0 0
+d 1
+illum 1
+Ns 1.000000
+newmtl poly_11
+Ka 0.000 0.000 0.000
+Kd 0.772549 0.764706 0.74902
+Ks 0 0 0
+d 1
+illum 1
+Ns 1.000000
+newmtl poly_12
+Ka 0.000 0.000 0.000
+Kd 1 0.996078 0.976471
+Ks 0 0 0
+d 1
+illum 1
+Ns 1.000000
+newmtl poly_13
+Ka 0.000 0.000 0.000
+Kd 0.95 0.9 0.85
+Ks 0 0 0
+d 1
+illum 1
+Ns 1.000000
+newmtl poly_14
+Ka 0.000 0.000 0.000
+Kd 1 0.996078 0.976471
+Ks 0 0 0
+d 1
+illum 1
+Ns 1.000000
+newmtl poly_15
+Ka 0.000 0.000 0.000
+Kd 0.772549 0.764706 0.74902
+Ks 0 0 0
+d 1
+illum 1
+Ns 1.000000
+newmtl poly_16
+Ka 0.000 0.000 0.000
+Kd 1 0.996078 0.976471
+Ks 0 0 0
+d 1
+illum 1
+Ns 1.000000
+newmtl poly_17
+Ka 0.000 0.000 0.000
+Kd 0.95 0.9 0.85
+Ks 0 0 0
+d 1
+illum 1
+Ns 1.000000
+newmtl poly_18
+Ka 0.000 0.000 0.000
+Kd 1 0.996078 0.976471
+Ks 0 0 0
+d 1
+illum 1
+Ns 1.000000
+newmtl poly_19
+Ka 0.000 0.000 0.000
+Kd 0.772549 0.764706 0.74902
+Ks 0 0 0
+d 1
+illum 1
+Ns 1.000000
+newmtl poly_20
+Ka 0.000 0.000 0.000
+Kd 1 0.996078 0.976471
+Ks 0 0 0
+d 1
+illum 1
+Ns 1.000000
+newmtl poly_21
+Ka 0.000 0.000 0.000
+Kd 0.95 0.9 0.85
+Ks 0 0 0
+d 1
+illum 1
+Ns 1.000000
+newmtl poly_22
+Ka 0.000 0.000 0.000
+Kd 1 0.996078 0.976471
+Ks 0 0 0
+d 1
+illum 1
+Ns 1.000000
+newmtl poly_23
+Ka 0.000 0.000 0.000
+Kd 1.000 1.000 1.000
+Ks 0.000 0.000 0.000
+Tr 0.000000
+illum 1
+Ns 1.000000
+map_Kd poly_0_pq9QPpkL.jpg
+newmtl poly_24
+Ka 0.000 0.000 0.000
+Kd 0.855 0.796 0.729
+Ks 0 0 0
+d 1
+illum 1
+Ns 1.000000
